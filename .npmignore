@@ -1,0 +1,14 @@
+npm-debug.log
+node_modules
+src/
+man/
+examples/
+dist/
+story/
+karma.conf.js
+index.html
+gulpfile.js
+webpack.config.js
+webpack.dev.config.js
+.babelrc
+tests/

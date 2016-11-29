@@ -32,8 +32,8 @@
   ],
   "license": "ISC",
   "dependencies": {
-    "react": "^0.15.0",
-    "react-dom": "^0.15.0"
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
   },
   "devDependencies": {
     "babel": "^6.5.2",

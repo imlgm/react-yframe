@@ -7,7 +7,7 @@ Render your react components to a esolated iframe
 ### Demo
 ```js
 
-import React, {Component} from 'react
+import React, {Component} from 'react'
 
 class Compo extent Component{
   ....
